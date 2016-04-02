@@ -1,6 +1,5 @@
 #Hello-World
-这是一个库
-
+这是一个库。
 #include<cstio>
 
 int main()
